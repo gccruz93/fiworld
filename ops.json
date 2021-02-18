@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "f629f6d4-7e1e-3290-a417-5d41fecc0b62",
+    "name": "fii",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0e6f8140-ab65-391a-b15d-7ff7b1596909",
+    "name": "1kingcruz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6d538fd6-ea7f-3ca8-8184-1cbfeecc6787",
+    "name": "Goku",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d02dc733-4d47-30ac-9700-21901c643f3d",
+    "name": "guigs",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
